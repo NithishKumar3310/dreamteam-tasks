@@ -1,0 +1,187 @@
+.header{
+    background-color: black;
+    text-align: center;
+    color:aliceblue;
+    padding:30px;
+
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header:hover{
+    color:aqua;
+}
+.extra{
+    background-color:white;
+    width: 100%;
+    height:175px;
+}
+.story1{
+    display: inline-block;
+    border-color:black;
+    border-width:5px;
+    border-style:solid;
+    width:250px;
+    margin-left: 225px;
+    padding:10px;
+}
+.story1:hover{
+    background-color: black;
+    color:cyan;
+    cursor:pointer;
+}
+.story2{
+    display: inline-block;
+    border-color:black;
+    border-width:5px;
+    border-style:solid;
+    width:250px;
+    padding:10px;
+    margin-left:115px;
+}
+.story2:hover{
+    color:aqua;
+    background-color: black;
+    cursor:pointer;
+}
+.story3{
+    display: inline-block;
+    border-color:black;
+    border-width:5px;
+    border-style:solid;
+    width:250px;
+    padding:10px;
+    margin-left:115px;
+
+}
+.story3:hover{
+    color:aqua;
+    background-color: black;
+    cursor:pointer;
+}
+.space2{
+    background-color:white;
+    height: 100px;
+}
+.story4{
+    display: inline-block;
+    border-color:black;
+    border-width:5px;
+    border-style:solid;
+    width:250px;
+    margin-left: 225px;
+    padding:10px;
+}
+.story4:hover{
+    background-color: black;
+    color:cyan;
+    cursor:pointer;
+}
+.story5{
+    display: inline-block;
+    border-color:black;
+    border-width:5px;
+    border-style:solid;
+    width:250px;
+    padding:10px;
+    margin-left:115px;
+
+}
+.story5:hover{
+    color:aqua;
+    background-color: black;
+    cursor:pointer;
+}
+.story6{
+    display: inline-block;
+    border-color:black;
+    border-width:5px;
+    border-style:solid;
+    width:250px;
+    padding:10px;
+    margin-left:115px;
+
+
+}
+.story6:hover{
+    color:aqua;
+    background-color: black;
+    cursor:pointer;
+}
+.story7{
+    display: inline-block;
+    border-color:black;
+    border-width:5px;
+    border-style:solid;
+    width:250px;
+    margin-left: 225px;
+    padding:10px;
+
+}
+.story7:hover{
+    color:aqua;
+    background-color: black;
+    cursor:pointer;
+}
+.story8{
+    display: inline-block;
+    border-color:black;
+    border-width:5px;
+    border-style:solid;
+    width:250px;
+    padding:10px;
+    margin-left:115px;
+
+}
+.story8:hover{
+    color:aqua;
+    background-color: black;
+    cursor:pointer;
+}
+.story9{
+    display: inline-block;
+    border-color:black;
+    border-width:5px;
+    border-style:solid;
+    width:250px;
+    padding:10px;
+    margin-left:115px;
+}
+.story9:hover{
+    color:aqua;
+    background-color: black;
+    cursor:pointer;
+}
+.about{
+    text-align: center;
+    padding:20px;
+    color:white;
+    background-color: black;
+}
+.contact{
+    text-align: center;
+    padding:20px;
+    color:white;
+    background-color: black;
+
+}
+button{
+    background-color:honeydew;
+    padding:5px;
+    border-style: solid;
+    border-width: 2px;
+    box-shadow: 2px;
+    cursor:pointer;
+    background-color:lightblue;
+}
+button:hover{
+    background-color:aqua;
+    
+}
+.about:hover{
+    color:crimson;
+}
+.contact:hover{
+    color:hotpink;
+}
